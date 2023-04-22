@@ -1,6 +1,3 @@
-keyword 1 :::: exact video title 1
-keyword 2 :::: exact video title 2
-keyword 3 :::: exact video title 2
-keyword 1 :::: video_id 1
-keyword 2 :::: video_id 2
-keyword 4 :::: exact video title 3
+5 Tips for Staying Motivated When You Feel Like Giving Up :::: 5 Tips for Staying Motivated When You Feel Like Giving Up
+5 Tips for Staying Motivated After Heartbreak :::: 5 Tips for Staying Motivated After Heartbreak
+5 Tips for Staying Motivated while Studying :::: 5 Tips for Staying Motivated while Studying
